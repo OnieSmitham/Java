@@ -1,4 +1,4 @@
-// version 1
+//*version 1
 public class Primes {
 
     public static void main(String[] args) {
@@ -77,3 +77,4 @@ public class Primes {
         System.out.println(primeList);
     }
 }
+ 
