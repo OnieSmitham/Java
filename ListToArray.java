@@ -1,4 +1,4 @@
-// Java: convert ArrayList<String> to String[]
+//*Java:*convert ArrayList<String> to String[]
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -43,3 +43,4 @@ class ListToArray {
 
 
 
+ 
